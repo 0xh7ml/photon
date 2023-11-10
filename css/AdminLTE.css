@@ -3535,3 +3535,7 @@ fieldset[disabled] .btn-vk.active {
   color: #587ea3;
   background-color: #ffffff;
 }
+
+.mt-2{
+  margin-top: 5px;
+}
